@@ -1,0 +1,11 @@
+prefix=/Users/bonez/Development/athena_utils/libupnp/libupnp-1.6.25-Mac32
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libupnp
+Description: Linux SDK for UPnP Devices
+Version: 1.6.25
+Libs: -D_THREAD_SAFE   -L${libdir} -lupnp -lthreadutil -lixml 
+Cflags: -I${includedir}/upnp
+
