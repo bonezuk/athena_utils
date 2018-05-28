@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/Users/bonez/Development/athena_utils/libupnp/libupnp-1.6.25-Mac32/lib'
+libdir='/Users/bonez/Development/athena_utils/libupnp/libupnp-1.6.25-Mac64/lib'

@@ -1,4 +1,4 @@
-prefix=/Users/bonez/Development/athena_utils/libupnp/libupnp-1.6.25-Mac32
+prefix=/Users/bonez/Development/athena_utils/libupnp/libupnp-1.6.25-Mac64
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
