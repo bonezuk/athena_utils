@@ -1,0 +1,11 @@
+prefix=/home/pi/Development/utils/athena_utils/libupnp/libupnp-1.6.25-RPi2
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libupnp
+Description: Linux SDK for UPnP Devices
+Version: 1.6.25
+Libs: -pthread  -L${libdir} -lupnp -lthreadutil -lixml 
+Cflags: -I${includedir}/upnp
+
