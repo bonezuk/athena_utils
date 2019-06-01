@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/pi/Development/utils/athena_utils/libupnp/libupnp-1.6.25-RPi2/lib'
+libdir='/home/pi/Development/athena_utils/libupnp/libupnp-1.6.25-RPi2/lib'

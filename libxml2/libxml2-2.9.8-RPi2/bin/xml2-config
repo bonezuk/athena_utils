@@ -1,6 +1,6 @@
 #! /bin/sh
 
-prefix=/home/pi/Development/utils/athena_utils/libxml2/libxml2-2.9.8-RPi2
+prefix=/home/pi/Development/athena_utils/libxml2/libxml2-2.9.8-RPi2
 exec_prefix=${prefix}
 includedir=${prefix}/include
 libdir=${exec_prefix}/lib

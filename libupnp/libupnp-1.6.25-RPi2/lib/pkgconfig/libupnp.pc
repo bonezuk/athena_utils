@@ -1,4 +1,4 @@
-prefix=/home/pi/Development/utils/athena_utils/libupnp/libupnp-1.6.25-RPi2
+prefix=/home/pi/Development/athena_utils/libupnp/libupnp-1.6.25-RPi2
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
