@@ -1,3 +1,4 @@
+Build/*
 gmock/build/*
 libupnp/build/*
 libxml2/build/*
