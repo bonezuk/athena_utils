@@ -1,0 +1,13 @@
+prefix=/Users/bonez/Development/athena_utils/wavpack/wavpack-5.1.0-Mac64.ARM
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: wavpack
+Description: wavpack library
+Version: 5.1.0
+Requires:
+Conflicts:
+Libs: -L${libdir} -lwavpack
+Libs.private: 
+Cflags: -I${includedir}
