@@ -5,3 +5,5 @@ libupnp/build/*
 libxml2/build/*
 musepack/build/*
 wavpack/build/*
+temp/*
+
